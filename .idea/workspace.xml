@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6168d93-bf62-4b82-af90-54102a87b7c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/io/CsvGameDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/io/FileGameLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/io/GameDeserializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/io/GameLoader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/model/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata2/model/Game.java" afterDir="false" />
+    <list default="true" id="c6168d93-bf62-4b82-af90-54102a87b7c5" name="Changes" comment="kata 2 realized">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "maikos08"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maikos08&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/maikos08/kata2.git",
-    "accountId": "05ef40f6-957b-4d1c-a384-f5cc09241185"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maikos08/kata2.git&quot;,
+    &quot;accountId&quot;: &quot;05ef40f6-957b-4d1c-a384-f5cc09241185&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pd24qBBqULlJ4dpMBWiv4e47fH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -57,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Universidad/3º/IS2/Practicas/kata2/kata2",
     "onboarding.tips.debug.path": "C:/Users/User/Universidad/3º/IS2/Practicas/kata2/kata2/src/main/java/software/ulpgc/kata2/Main.java"
   }
 }]]></component>
@@ -69,6 +64,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733081443413</updated>
     </task>
+    <task id="LOCAL-00001" summary="kata 2 realized">
+      <option name="closed" value="true" />
+      <created>1733082205425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733082205425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kata 2 realized" />
+    <option name="LAST_COMMIT_MESSAGE" value="kata 2 realized" />
   </component>
 </project>
